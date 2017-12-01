@@ -1,4 +1,6 @@
-# Strcmp#include "txlib.h"
+# Strcmp
+
+#include "txlib.h"
 
 int my_strcmp (const char string1 [], const char string2 []);
 
